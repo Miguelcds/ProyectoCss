@@ -318,7 +318,6 @@ footer {
   }
 
   
-
   .hero-text {
     margin-top: 90px;
     max-width: 400px;
@@ -333,6 +332,10 @@ footer {
     font-size: 28px;
     margin-bottom: 50px;
     color: var(--color-acento);
+  }
+
+  .card{
+    background-attachment: scroll;
   }
 
 
