@@ -34,7 +34,7 @@ header::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(0, 0, 0, 0.70);
 }
 
 header > * {
@@ -309,7 +309,12 @@ footer {
     margin-left: 0px;
   }
 
+  header{
+    background-attachment: scroll;
+  }
+
   nav{
+    margin-top: 100px ;
     margin-left: 0px;
   }
 
@@ -319,7 +324,7 @@ footer {
 
   
   .hero-text {
-    margin-top: 90px;
+    margin-top: 200px;
     max-width: 400px;
     margin-left: 1px;
   }
