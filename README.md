@@ -13,7 +13,7 @@ El proyecto contiene una landing con:
 
 - Secciones con efectos, animaciones y responsive design
 
-🎯 ¿Qué incluye?
+ · 🎯 ¿Qué incluye?
 
 🖼️ Image Card Effects
 
@@ -101,4 +101,4 @@ Mostrar dominio de animaciones y UI effects
 # 👨‍💻 Autor
 
 Joao Miguel Costa
-2026 — CSS Component
+
