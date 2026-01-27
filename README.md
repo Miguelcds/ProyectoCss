@@ -18,7 +18,7 @@ Secciones con efectos, animaciones y responsive design
 
 Cuatro tarjetas con efectos visuales usando únicamente CSS:
 
-Efecto y Técnica usada
+Efecto y Técnica usada:
 
 - Filter brightness() + grayscale()
 
