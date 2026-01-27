@@ -63,7 +63,9 @@ Media queries para móviles y tablets
 
 # 📂 Estructura del proyecto
 /
+
 │
+
 ├── index.html
 
 ├── css/
