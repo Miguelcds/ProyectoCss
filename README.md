@@ -65,8 +65,10 @@ Media queries para móviles y tablets
 /
 │
 ├── index.html
+
 ├── css/
-│   └── style.css
+│ └── style.css
+
 ├── img/
 │   ├── hero.jpg
 │   ├── foto3.jpg
@@ -74,6 +76,7 @@ Media queries para móviles y tablets
 │   ├── foto7.jpg
 │   ├── foto8.jpg
 │   └── foto10.jpg
+
 └── fontawesome/
 
 # 🚀 Cómo usarlo
