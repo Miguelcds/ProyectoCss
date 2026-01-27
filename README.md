@@ -19,11 +19,16 @@ Secciones con efectos, animaciones y responsive design
 Cuatro tarjetas con efectos visuales usando únicamente CSS:
 
 Efecto y Técnica usada
-Filter brightness() + grayscale()
-Blur Zoom	transform: scale() + filter: blur()
-Overlay	::after con rgba()
-Color Shift	filter: hue-rotate()
-🔥 Animations
+
+- Filter brightness() + grayscale()
+
+- Blur Zoom	transform: scale() + filter: blur()
+
+- Overlay	::after con rgba()
+
+- Color Shift	filter: hue-rotate()
+
+- 🔥 Animations
 
 Dos tarjetas con animaciones en hover:
 
