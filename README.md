@@ -1,19 +1,20 @@
-📦 CSS Component – UI Effects & Animations
+# 📦 CSS Component – UI Effects & Animations
 
 CSS Component es un proyecto visual enfocado en mostrar distintos efectos modernos con CSS, animaciones y diseño responsive usando solo HTML + CSS puro.
 Está pensado tanto para aprender como para servir de portfolio visual.
 
-🖥️ Demo
+# 🖥️ Demo
 
 El proyecto contiene una landing con:
 
-Hero con fondo fijo (parallax)
+- Hero con fondo fijo (parallax)
 
-Navegación con iconos (FontAwesome)
+- Navegación con iconos (FontAwesome)
 
-Secciones con efectos, animaciones y responsive design
+- Secciones con efectos, animaciones y responsive design
 
-🎯 ¿Qué incluye?
+#🎯 ¿Qué incluye?
+
 🖼️ Image Card Effects
 
 Cuatro tarjetas con efectos visuales usando únicamente CSS:
@@ -32,11 +33,11 @@ Efecto y Técnica usada:
 
 Dos tarjetas con animaciones en hover:
 
-Hover Lift → Movimiento y zoom (translateY + scale)
+- Hover Lift → Movimiento y zoom (translateY + scale)
 
-Glow Pulse → Borde animado con linear-gradient + @keyframes
+- Glow Pulse → Borde animado con linear-gradient + @keyframes
 
-📱 Responsive Design
+# 📱 Responsive Design
 
 El layout se adapta automáticamente gracias a:
 
@@ -56,11 +57,11 @@ Media queries para móviles y tablets
 
 - Flexbox
 
-Font Awesome
+- Font Awesome
 
-Google Fonts (Pacifico)
+- Google Fonts (Pacifico)
 
-📂 Estructura del proyecto
+# 📂 Estructura del proyecto
 /
 │
 ├── index.html
@@ -75,7 +76,7 @@ Google Fonts (Pacifico)
 │   └── foto10.jpg
 └── fontawesome/
 
-🚀 Cómo usarlo
+# 🚀 Cómo usarlo
 
 1. Descarga o clona el proyecto
 
@@ -94,7 +95,7 @@ Inspiración para interfaces
 
 Mostrar dominio de animaciones y UI effects
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 
 Joao Miguel Costa
 2026 — CSS Component
