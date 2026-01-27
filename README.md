@@ -69,15 +69,15 @@ Media queries para móviles y tablets
 ├── index.html
 
 ├── css/
-│ └── style.css
+│      └── style.css
 
 ├── img/
-│   ├── hero.jpg
-│   ├── foto3.jpg
-│   ├── foto4.jpg
-│   ├── foto7.jpg
-│   ├── foto8.jpg
-│   └── foto10.jpg
+│       ├── hero.jpg
+│       ├── foto3.jpg
+│       ├── foto4.jpg
+│       ├── foto7.jpg
+│       ├── foto8.jpg
+│       └── foto10.jpg
 
 └── fontawesome/
 
