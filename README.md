@@ -46,15 +46,15 @@ Flexbox para navegación y hero
 
 Media queries para móviles y tablets
 
-🧠 Tecnologías usadas
+# 🧠 Tecnologías usadas
 
-HTML5
+- HTML5
 
-CSS3 
+- CSS3 
 
-CSS Grid
+- CSS Grid
 
-Flexbox
+- Flexbox
 
 Font Awesome
 
@@ -77,11 +77,11 @@ Google Fonts (Pacifico)
 
 🚀 Cómo usarlo
 
-Descarga o clona el proyecto
+1. Descarga o clona el proyecto
 
-Abre index.html en tu navegador
+2. Abre index.html en tu navegador
 
-Pasa el ratón por las tarjetas y disfruta la magia ✨
+3. Pasa el ratón por las tarjetas y disfruta la magia ✨
 
 
 # Este proyecto tiene como objetivo:
